@@ -9,5 +9,6 @@ public class Arrray {
         for (int e : arrr){
             System.out.println(e);// вывод масива
         }
+        System.out.println("New array")
     }
 }
